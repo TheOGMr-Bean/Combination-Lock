@@ -11,5 +11,6 @@ A great project for kids to learn the function/operation of a solenoid, and the 
 
 
 Sketch written/tested by Chris Bean as a tutorial project for beginners.
-%nbsp; NOV 23, 2016
+
+NOV 23, 2016
 
